@@ -1,3 +1,9 @@
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: ClientRMI.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 

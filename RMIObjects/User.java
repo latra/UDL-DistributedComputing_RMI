@@ -1,6 +1,11 @@
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: User.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 
 
-import java.util.List;
 
 class User {
 

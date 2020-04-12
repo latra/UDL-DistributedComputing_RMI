@@ -1,4 +1,9 @@
-
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: Message.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 class Message {
 
 

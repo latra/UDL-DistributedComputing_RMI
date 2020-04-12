@@ -1,4 +1,9 @@
-
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: ServerRMI.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 import exceptions.*;
 
 import java.rmi.Remote;

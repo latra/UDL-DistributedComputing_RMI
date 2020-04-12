@@ -1,3 +1,9 @@
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: Group.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 import java.util.ArrayList;
 
 class Group {

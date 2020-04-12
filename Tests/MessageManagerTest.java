@@ -1,3 +1,9 @@
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: MessengerManagerTest.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 import exceptions.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

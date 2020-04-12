@@ -1,3 +1,9 @@
+/* ---------------------------------------------------------------
+Práctica 1.
+Código fuente: MessengerServer.java
+Grau Informàtica
+47129784J - Paula Gallucci Zurita
+--------------------------------------------------------------- */
 import java.rmi.Naming;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
