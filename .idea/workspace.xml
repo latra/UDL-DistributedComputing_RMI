@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39c6171-ff6e-4019-8c91-e287382db9d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Client/permissions.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/permissions.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/MessageManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/rmi/annotations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/MessengerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/MessengerClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessengerRMI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MessengerRMI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIObjects/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIObjects/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIObjects/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIObjects/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIObjects/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIObjects/ClientRMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIObjects/MessageManagerRMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIObjects/ServerRMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIObjects/MessageManagerServant.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIObjects/MessageManagerServant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMIObjects/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/RMIObjects/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/MessengerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MessengerServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MessengerRMI/META-INF/MessengerRMI.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/MessageManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MessageManagerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Server/MessengerServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="221">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,34 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RMIObjects/MessageManagerServant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/MessageManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="105" column="30" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+            <state relative-caret-position="552">
+              <caret line="156" column="45" selection-start-line="156" selection-start-column="45" selection-end-line="156" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="356" column="23" selection-start-line="356" selection-start-column="23" selection-end-line="356" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -91,21 +67,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RMIObjects/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding>
-                <element signature="e#50#51#0" expanded="true" />
-                <element signature="e#80#81#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -122,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Client/MessengerClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="32" selection-start-line="32" selection-end-line="38" />
+            <state relative-caret-position="282">
+              <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,6 +106,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RMIObjects/MessageManagerServant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="122" column="47" lean-forward="true" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -373,35 +352,49 @@
       <workItem from="1586548485703" duration="1238000" />
       <workItem from="1586601249095" duration="25464000" />
       <workItem from="1586691424470" duration="4229000" />
-      <workItem from="1586704096188" duration="2790000" />
+      <workItem from="1586704096188" duration="6973000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MessageManagerTest - 2020.04.12 at 17h 26m 33s.xml">
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 01m 42s.xml">
       <configuration name="MessageManagerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MessageManagerTest - 2020.04.12 at 17h 31m 34s.xml">
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 03m 12s.xml">
       <configuration name="MessageManagerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MessageManagerTest - 2020.04.12 at 17h 32m 40s.xml">
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 03m 49s.xml">
       <configuration name="MessageManagerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MessageManagerTest - 2020.04.12 at 17h 33m 07s.xml">
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 04m 22s.xml">
       <configuration name="MessageManagerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MessageManagerTest - 2020.04.12 at 17h 33m 32s.xml">
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 05m 25s.xml">
+      <configuration name="MessageManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 05m 29s.xml">
+      <configuration name="MessageManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 06m 40s.xml">
+      <configuration name="MessageManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 07m 10s.xml">
+      <configuration name="MessageManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 11m 12s.xml">
+      <configuration name="MessageManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageManagerTest - 2020.04.12 at 19h 11m 57s.xml">
       <configuration name="MessageManagerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72910000" />
+    <option name="totallyTimeSpent" value="77093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -410,8 +403,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -474,6 +467,18 @@
           <line>283</line>
           <properties />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/MessageManagerTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/MessageManagerTest.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -671,10 +676,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RMIObjects/MessageManagerServant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="122" column="47" lean-forward="true" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="356" column="23" selection-start-line="356" selection-start-column="23" selection-end-line="356" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/MessengerServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Client/MessengerClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="32" selection-start-line="32" selection-end-line="38" />
+        <state relative-caret-position="282">
+          <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -683,36 +721,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/MessageManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" column="30" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RMIObjects/MessageManagerServant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/MessengerServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="552">
+          <caret line="156" column="45" selection-start-line="156" selection-start-column="45" selection-end-line="156" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
