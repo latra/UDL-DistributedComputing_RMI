@@ -1,0 +1,4 @@
+grant {
+	permission java.net.SocketPermission "*:1024-65535", "connect,resolve,listen";
+    permission java.util.PropertyPermission "java.rmi.server.hostname", "write";
+};
